@@ -1,0 +1,7 @@
+order_id,customer,product,category,quantity,price,city
+1,Ram,Laptop,Electronics,1,800,Kathmandu
+2,Sita,Phone,Electronics,2,500,Pokhara
+3,Hari,Mouse,Accessories,,20,Butwal
+4,Gita,Laptop,Electronics,1,800,
+5,Rita,Keyboard,Accessories,2,50,Kathmandu
+6,Sita,Phone,Electronics,2,500,Pokhara
